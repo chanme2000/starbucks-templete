@@ -19,7 +19,6 @@ img {
 /* common css */
 .inner {
   width: 1100px; margin: 0 auto; position: relative;
-  outline: 1px solid blue;
 }
 /* 버튼 스타일 */
 .btn {
